@@ -1,0 +1,3 @@
+C:\amala_Renderer\AR_sln\AR\x64\Debug\AR.vcxproj.MdMergeInputs.cache
+C:\amala_Renderer\AR_sln\AR\x64\Debug\AR.vcxproj.cppwinrt_plat.cache
+C:\amala_Renderer\AR_sln\AR\x64\Debug\AR.vcxproj.cppwinrt_comp.cache
